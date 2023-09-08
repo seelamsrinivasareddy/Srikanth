@@ -10,5 +10,9 @@ public class First {
 	{
 		System.out.println("This is Fun() from Srinu");
 	}
+public static void gun()
+{
+	System.out.println("This is gun() from SriKANTH");
+}
 
 }
